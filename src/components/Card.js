@@ -50,7 +50,7 @@ const Card = () => {
                         totalPriceStatus: 'FINAL',
                         totalPriceLabel: "Total",
                         totalPrice: "500",
-                        currencyCode: "USD",
+                        currencyCode: "MAD",
                         countryCode: "US",
                     },
                 }}
